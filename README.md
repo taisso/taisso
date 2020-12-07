@@ -1,5 +1,7 @@
 ### Olá, seja bem-vindo ao meu pefil do github 👋
 
+- 🔭 Estou trabalhando no momento como desenvolvedor Fullstack da URBIS da Terra Urbanizada - UFERSA
+
 - ⚡ Curiosidades: Amo muito programação e atualmente sou desenvolvedor Fullstack
 
 - 🌱 Atualmente estou aprendendo: Vue, React, NodeJs, API rest, API graphql e Banco de dados relacional
